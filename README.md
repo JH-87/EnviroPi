@@ -1,2 +1,2 @@
 # EnviroPi
-Building stuff for the out the Pimoroni Enviro+ 
+Building stuff for the Pimoroni Enviro+ 
